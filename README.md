@@ -6,6 +6,8 @@ Data Science Intern
 
 Oasisinfobyte
 
+Title : Car Price Prediction with Machine Learning
+
 YT link : https://youtu.be/-ieZf8tToMY
 
 📌 Objective
