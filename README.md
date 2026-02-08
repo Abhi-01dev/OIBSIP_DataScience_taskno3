@@ -1,4 +1,13 @@
 # OIBSIP_DataScience_taskno3
+
+Name Abhishek Kalekar
+
+Data Science Intern
+
+Oasisinfobyte
+
+YT link : https://youtu.be/-ieZf8tToMY
+
 📌 Objective
 
 To predict the selling price of used cars based on features like brand, year, fuel type, transmission, and kilometers driven using Machine Learning algorithms.
